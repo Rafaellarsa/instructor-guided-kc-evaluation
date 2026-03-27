@@ -1,0 +1,13 @@
+exercise	missing_kcs
+py_bmi_calculator2	['round']
+ps_return_bigger_or_none	['PassStatement']
+q_py_topic_lists:q_py_list_remove1	['pop']
+ps_python_string_join	['join', 'capitalize']
+ps_python_list_to_dict	['get']
+ps_python_dict_filter	['items']
+ps_python_try_except	['RaiseStatement']
+ps_python_try_adding	['TypeError']
+ae_adl_file2	['rstrip']
+q_py_topic_file_processing:q_py_file1	['Import', 'read']
+ps_python_class_point	['ImportFrom']
+objects_classes_loan	['-', '__init()__', '/', '+', '*', 'format()', '=', 'float()', '**', 'input()', 'int()', 'print()']
