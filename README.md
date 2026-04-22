@@ -1,9 +1,4 @@
-# Instructor-Guided Evaluation of Knowledge Components
-
-This repository contains the dataset and evaluation code for the paper:
-
-> Rafaella Sampaio de Alencar and Peter Brusilovsky. 2026. *Beyond Learning Curves:
-> Instructor-Guided Evaluation of Knowledge Components.* Under review.
+# A Curriculum-Based Approach to Evaluate Smart Content Indexing with Knowledge Components
 
 ## Overview
 
@@ -117,12 +112,3 @@ You can install them with:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
 ```
-
-## Citation
-
-This paper is currently under review. Citation information will be added upon
-publication.
-
-## Contact
-
-Rafaella Sampaio de Alencar — ras555@pitt.edu
